@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Fonksiyonlar</title>
+
+    <script>
+        //Basit fonksiyon tanımı
+
+        function yazdir(parametre) {
+            document.write("<h1>" + parametre +"</h1>")
+        }
+
+        yazdir("javascript eğitimi");//foksiyonu çağırdık
+
+        function renkdegis(renk) {
+            document.bgColor = renk
+        }
+
+     //   renkdegis("yellow");//foksiyonu çağırdık
+
+    </script>
+
+</head>
+
+<body>
+
+    <form>
+        <input id="Button1" type="button" value="mavi" onclick="renkdegis('blue')" />
+        <input id="Button2" type="button" value="yeşil" onclick="renkdegis('green')" />
+        <input id="Button3" type="button" value="kırmızı" onclick="renkdegis('red')" />
+    </form>
+
+</body>
+</html>

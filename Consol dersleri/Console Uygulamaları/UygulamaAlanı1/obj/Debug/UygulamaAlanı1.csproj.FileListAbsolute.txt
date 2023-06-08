@@ -1,0 +1,8 @@
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\Consol dersleri\Console Uygulamaları\UygulamaAlanı1\bin\Debug\UygulamaAlanı1.exe.config
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\Consol dersleri\Console Uygulamaları\UygulamaAlanı1\bin\Debug\UygulamaAlanı1.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\Consol dersleri\Console Uygulamaları\UygulamaAlanı1\bin\Debug\UygulamaAlanı1.pdb
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\Consol dersleri\Console Uygulamaları\UygulamaAlanı1\obj\Debug\UygulamaAlanı1.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\Consol dersleri\Console Uygulamaları\UygulamaAlanı1\obj\Debug\UygulamaAlanı1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\Consol dersleri\Console Uygulamaları\UygulamaAlanı1\obj\Debug\UygulamaAlanı1.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\Consol dersleri\Console Uygulamaları\UygulamaAlanı1\obj\Debug\UygulamaAlanı1.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\Consol dersleri\Console Uygulamaları\UygulamaAlanı1\obj\Debug\UygulamaAlanı1.pdb

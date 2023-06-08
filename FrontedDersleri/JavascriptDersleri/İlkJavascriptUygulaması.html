@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+    <script language="javascript">
+        var fiyat, miktar, tutar, fiy, mik;
+        fiyat = window.prompt("fiyatı giriniz", "0");//değer girmemizi sağlar default olarak 0 atadık,girilen değer string olarak girdik bunları dönüştürmemiz lazım
+        miktar = window.prompt("miktarı giriniz", "0");//
+        fiy = parseInt(fiyat);//dönüştürme işlemi yaptık
+        mik = parseInt(miktar);
+        tutar = fiy * mik;
+        document.writeln('<h1 style=color:red>Fiyat=' + fiyat+'</h1')//html ve css kodları js içine tek tırnak olarak yazılır,eğer değişken ataması yapacaksak tek tırnek içine yazılır cift tırnek ta kullanabilir
+        document.writeln('<h1 style=color:blue>Miktar=' + miktar + '</h1')
+        document.writeln('<h1 style=color:green>Toplam Tutar=' + tutar + '</h1')
+    </script>
+
+</body>
+</html>

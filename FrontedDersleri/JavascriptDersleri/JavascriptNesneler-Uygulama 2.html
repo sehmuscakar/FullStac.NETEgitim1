@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+<script>
+
+    function oto(marka, modek, yıl, renkk)
+
+    {
+        this.marka = marka
+        this.model = model
+        this.yıl = yıl
+        this.renk = renk
+
+    }
+
+    otom = new oto("fiat", "linea", 2013, "beyaz")
+    oton = new oto("opel", "combo", 2007, "siyah")
+    otosu = new oto("tofaşk", "doğan", 1995, "kırmızı")
+
+
+    function sahis(ad, yas, cins) {
+        this.ad = ad
+        this.yas = yas
+        this.cins =cins
+    }
+
+    selen = new sahis("selen toprak", 38, "k")
+    ayse=new sahis("ayse can",18,"k")
+
+    function oto(marka, model, yıl, renk, sahip) {
+        this.marka = marka
+        this.model = model
+        this.yıl = yıl
+        this.renk = renk
+        this.sahis = sahis
+    }
+
+    function oto(marka, model, yıl, renk, sahip) {
+        this.marka = marka
+        this.model = model
+        this.yıl = yıl
+        this.renk = renk
+        this.sahis = sahip
+
+    }
+
+    oto2 = new oto("fiat", "linea", 2013, "beyaz", ayse)
+    oto3 = new oto("honda", "cvic", 2018, "gri", selen)
+
+    document.write("personelin adı:" + oto3.sahis.ad)
+
+</script>
+
+</head>
+<body>
+
+    <h1>Neesneler (object) ve özelikleri (properties)</h1>
+    <p>Kullanımı:nesneadı.özelikadı</p>
+
+
+</body>
+</html>

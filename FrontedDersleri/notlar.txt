@@ -1,0 +1,2 @@
+asp.net core web app oluşturduk 
+--html sayfası ekledik(html page)

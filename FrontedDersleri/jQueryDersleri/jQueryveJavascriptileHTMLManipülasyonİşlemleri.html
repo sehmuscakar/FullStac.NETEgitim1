@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>HTML Metin içerik İşlemleri</title>
+</head>
+<body>
+
+
+    <h11>HTML Metin İçerik İşlemleri</h11>
+
+    <h11>HTML İçeriğini Ayarlama</h11>
+
+    <p id="degistir">Merhaba!</p>
+
+    <p id="Jsiledegistir">Selam!</p>
+
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/jquery/dist/jquery.js"></script>
+    
+    <script>
+        // kütüphane dosyaları tam gemediği için yukardaki iki script çalişmiyor
+
+        $(document).ready(function () {
+
+            var secilenceklement = $("#degistir");
+            secilecekElement.text = ("Selam");
+        });
+
+        //Js ile değiştirme
+
+        const sec = document.getElementById("jsiledegistir");
+        sec.textContent = "js ile degisti";
+
+
+        //Metin İçeriğini Alma
+        //Jguery ile alma
+
+        var yazi = $("jgileal").text();
+        //$("metin").text(yazi);
+
+        //js ile alma
+        const metin = document.getElementById("jsileal").textContent;
+        document.getElementById("metin").textContent = metin;
+
+
+        //HTML İçeriğini Ayarlama
+        //Jguery ile
+
+        $("#htmlicerik").html("<h2>Jguery ile HTML İçeriğini Ayarlama</h2>");
+
+        //Js ile
+
+        document.getElementById("htmlicerik").innerHTML += "<h3>Js ile HTML içeriğini ayarlama</h3>";
+
+        //Jguery ile HTML İçerik alma
+
+        var icerik = $("#htmlicerik").html();
+        $("#htmlicerikAl").html(icerik);
+
+        //Js ile alma
+
+        var content = document.getElementById("htmlicerik").innerHTML;
+        document.getElementById("htmlicerikAl").innerHTML += content;
+    </script>
+
+
+
+</body>
+</html>

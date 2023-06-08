@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>JavaScript DOM Selectors(Seciciler)</title>
+</head>
+<body>
+
+    <h1>JavaScript DOM Selectors(Seçiciler)</h1>
+    <h2>HTML Öğelerini Id ye göre bulma</h2>
+
+    <p id="mrbdny">Merhaba</p>
+    <p id="jsIdSeciciTest"></p>
+
+    <script>
+        const icerik = document.getElementById("mrbdny");
+        document.getElementById("jsIdSeciciTest").innerHTML = "jsIdSeciciTest içeriği:" + icerik.innerHTML;
+
+    </script>
+
+    <h2>HTML Öğelerini Etiket adına göre bulma</h2>
+
+    <div>
+        div içeriği
+    </div>
+
+    <div id="bosDiv"></div>
+
+    <script>
+        const divim = document.getElementsByTagName("div");
+        document.getElementById("bosDiv").innerHTML = "seçili div içeriği:" + divim[0].innerHTML;
+    </script>
+
+    <h2 class="sinifSecici">HTML Öğelerini sınıf adına göre bulma</h2>
+
+    <p id="demo"></p>
+
+    <script>
+        const sinifSecici = document.getElementsByClassName("sinifSecici");
+        document.getElementById("demo").innerHTML = "Sınıf içerik içeriği:" + sinifSecici[0].innerHTML;
+    </script>
+
+    <h2 class="sorguSecici">Sorgu Seçiciye göre HTML öğelerini bulma</h2>
+
+    <p id="sorguSecici"></p>
+
+    <script>
+        const sorguSecici = document.querySelectorAll("h2.sorguSecici");
+        document.getElementById("sorguSecici").innerHTML = "sorgu secici içeriği:" + sorguSecici[0].innerHTML;
+    </script>
+
+
+
+
+</body>
+</html>

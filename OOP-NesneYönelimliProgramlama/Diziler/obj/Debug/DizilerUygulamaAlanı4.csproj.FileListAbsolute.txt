@@ -1,0 +1,8 @@
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\Diziler\bin\Debug\Diziler.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\Diziler\bin\Debug\Diziler.pdb
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\Diziler\obj\Debug\DizilerUygulamaAlanı4.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\Diziler\obj\Debug\DizilerUygulamaAlanı4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\Diziler\obj\Debug\DizilerUygulamaAlanı4.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\Diziler\obj\Debug\Diziler.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\Diziler\obj\Debug\Diziler.pdb

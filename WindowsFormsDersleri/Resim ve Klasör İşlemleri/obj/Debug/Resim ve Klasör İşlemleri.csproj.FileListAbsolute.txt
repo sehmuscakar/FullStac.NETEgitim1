@@ -1,0 +1,11 @@
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\Resim ve Klasör İşlemleri\bin\Debug\Resim ve Klasör İşlemleri.exe.config
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\Resim ve Klasör İşlemleri\bin\Debug\Resim ve Klasör İşlemleri.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\Resim ve Klasör İşlemleri\bin\Debug\Resim ve Klasör İşlemleri.pdb
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\Resim ve Klasör İşlemleri\obj\Debug\Resim ve Klasör İşlemleri.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\Resim ve Klasör İşlemleri\obj\Debug\Resim ve Klasör İşlemleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\Resim ve Klasör İşlemleri\obj\Debug\Resim_ve_Klasör_İşlemleri.Form1.resources
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\Resim ve Klasör İşlemleri\obj\Debug\Resim_ve_Klasör_İşlemleri.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\Resim ve Klasör İşlemleri\obj\Debug\Resim ve Klasör İşlemleri.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\Resim ve Klasör İşlemleri\obj\Debug\Resim ve Klasör İşlemleri.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\Resim ve Klasör İşlemleri\obj\Debug\Resim ve Klasör İşlemleri.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\Resim ve Klasör İşlemleri\obj\Debug\Resim ve Klasör İşlemleri.pdb

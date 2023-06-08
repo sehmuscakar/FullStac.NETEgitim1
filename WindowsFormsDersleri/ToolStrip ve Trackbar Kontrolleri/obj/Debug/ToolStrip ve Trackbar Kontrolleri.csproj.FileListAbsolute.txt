@@ -1,0 +1,11 @@
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\ToolStrip ve Trackbar Kontrolleri\bin\Debug\ToolStrip ve Trackbar Kontrolleri.exe.config
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\ToolStrip ve Trackbar Kontrolleri\bin\Debug\ToolStrip ve Trackbar Kontrolleri.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\ToolStrip ve Trackbar Kontrolleri\bin\Debug\ToolStrip ve Trackbar Kontrolleri.pdb
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\ToolStrip ve Trackbar Kontrolleri\obj\Debug\ToolStrip ve Trackbar Kontrolleri.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\ToolStrip ve Trackbar Kontrolleri\obj\Debug\ToolStrip ve Trackbar Kontrolleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\ToolStrip ve Trackbar Kontrolleri\obj\Debug\ToolStrip_ve_Trackbar_Kontrolleri.Form1.resources
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\ToolStrip ve Trackbar Kontrolleri\obj\Debug\ToolStrip_ve_Trackbar_Kontrolleri.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\ToolStrip ve Trackbar Kontrolleri\obj\Debug\ToolStrip ve Trackbar Kontrolleri.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\ToolStrip ve Trackbar Kontrolleri\obj\Debug\ToolStrip ve Trackbar Kontrolleri.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\ToolStrip ve Trackbar Kontrolleri\obj\Debug\ToolStrip ve Trackbar Kontrolleri.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\ToolStrip ve Trackbar Kontrolleri\obj\Debug\ToolStrip ve Trackbar Kontrolleri.pdb

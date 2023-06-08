@@ -1,0 +1,23 @@
+﻿conloole uygulamalarını yapmak için console app(.net framework) ten aç projeni 
+// güncel sürümlerle çalışmak ghüzel ama bazen dezavantajları var;web uygulamısı için sunucu lazım onlarda genelikle dışardan hazır alınır firmlardan 
+// almış olduğumuz sunucu biz projeyi 5.2 geliştirme yaptık o sunucu 5.0 sörümü yükle o zaman sıkıntı olur(hata verir)  veya çaışır beli bi zaman sonra hata veiri entity faremwork veya core söürümlerinde aynı olması lazım sunucu ile bunlar önemli 
+//sunucu firmaları host firmalarıdır
+
+--------------
+projedeki klasörler(propertyler)
+
+-properties proje ile ilgli özeliklerin ve ayarların tutulduğu alan 
+- guid numarası projeye ait özel numara dokunmamak daha sağlıklı
+-references propertdekiler ise o referansları kütüphane olarak değerlendirebiliriz,her referansı bir kütüphane olarak değerlendirebiliriz 
+-o referansları varsayılan olarak eklemiştir.
+-using olarak kullanılan kütüphanelerde bu referanslardan geliyor.
+- solution dan projje ayarlarına gideersen kaç tane peroje varsa onlar gelir ,ama ilgili projenin propertiesine gidersen o projenin ayarlarına gidersin 
+igili proje de değiklik  yapmak istersen ve katmanlar varsa o projede bütün katmanların versiyonlarını değiştirmen lazım 
+
+-----------------
+App.config dosyası projenin teknik özelikleri yazar diyebiliriz 
+--
+EntityFramework;veritabanı işlemlerini cak rahat ve otomatize hale getiren yapı ,microsoftun geliştirdiği yapı  
+
+--her program arkada birçok kütüphane çalıştırıyorlar  
+-- her referans kütüphane olarak düşün yeni referanslar ekleyeilirsin yani kütüphaneler 

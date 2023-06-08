@@ -1,0 +1,8 @@
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\EnumlarUygulamaAlani14\bin\Debug\EnumlarUygulamaAlani14.exe.config
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\EnumlarUygulamaAlani14\bin\Debug\EnumlarUygulamaAlani14.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\EnumlarUygulamaAlani14\bin\Debug\EnumlarUygulamaAlani14.pdb
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\EnumlarUygulamaAlani14\obj\Debug\EnumlarUygulamaAlani14.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\EnumlarUygulamaAlani14\obj\Debug\EnumlarUygulamaAlani14.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\EnumlarUygulamaAlani14\obj\Debug\EnumlarUygulamaAlani14.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\EnumlarUygulamaAlani14\obj\Debug\EnumlarUygulamaAlani14.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\EnumlarUygulamaAlani14\obj\Debug\EnumlarUygulamaAlani14.pdb

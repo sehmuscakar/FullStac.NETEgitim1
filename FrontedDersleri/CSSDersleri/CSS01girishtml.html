@@ -1,0 +1,124 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title> Css Giriş</title>
+
+    <style>
+        * {
+            color: chocolate;
+            text-align: right;
+        }
+        h2 {
+            color:brown ;
+            background-color: yellow;
+            font-size:xx-large;
+        }
+        #idsecici{color:blue;background-color:yellow;font-size:larger}
+
+        .ortala{text-align:center;}
+        .kirmizibaslik{color:crimson;}
+        h1, h2, h3, p {/* h1,h2,h3,p etiketlerini etkiler bu  ,, * yukarda ama en sondaki uyguulanır */
+            text-align: center;
+            color: red;
+        }
+        /* css nitlikleri olması için style etiketi içine yazılır ve ister kimlik(id) ister h2 gibi css nitleklerini uygulayabilirsin  
+            - bunlar dahili css tir aynı sayfada style uygulamak yani
+            - id #  ile ifade edilir
+            - class . ile ifade edeilir
+            - evrensel seçici * ile ifade edilir
+       
+            
+            */
+        /*
+            stil.css bağlantısı harici stil ekleme yöntemidir
+        */
+    </style>
+    <link href="C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\Asp.NetDersleri\CSSDersleri\Stil.css" rel="stylesheet"/> 
+    
+</head>
+<body>
+    <p>h1{color:blue; padding:3px}</p>
+
+    <h2>CSS Seçiciler</h2>
+
+    <p>CSS seçiciler,stilize etmek istediğimiz html öğelerini "bulmak  "(veya seçmek) için kullanılır.</p>
+    <p>CSS seçicilerini beş kategoriye ayırtabiliriz.</p>
+
+    <ul>
+        <li>Basit seciciler (ad,kimlik,sınıfa göre öğeleri seçin) </li>
+        <li>Kombinator seciciler (aralarındaki belirli bir ilişkiye göre öğeleri seçin) </li>
+        <li>Sözde sınıf seçiciler (belirli bir ilişkiye göre öğeleri seçin) </li>
+        <li>sözde sınıf seçiciler (bir öğenin bir parçasını seçin ve stilize eder) </li>
+        <li>öznitelik seçiciler ( bir öznitelik veya öznitelik deeğerine göre öğeleri seçin) </li>
+
+
+    </ul>
+
+    <h3 id="cssElemanSecici"> CSS eleman Seçici</h3>
+
+    <p>
+        Öğe secici,öğe adına html elemanı seçer
+    </p>
+
+    <h2>CSS id seçici</h2>
+
+    <p id="idsecici">
+
+        kimlik seçici ile öğeleri id özniteliğine göre seçebiliriz
+    </p>
+
+
+    <h2>Css Class(sınıf) seçici</h2>
+    <p class="ortala kirmizibaslik">
+        class kullanarak css de yazı ortalama;
+    <p class="ortala">
+        gibi
+    </p>
+
+    <h2>CSS Evrensel Seçici</h2>
+
+    <p>Evrensel seçici (*) sayfadaki tüm HTML öğeleri seçer.</p>
+
+    <h2>CSS Grublandırma Seçici</h2>
+    <p>
+
+        h1{color:blue;padding:3px;}
+        h2{color:red;padding:23px;}
+        p{color:yellow;padding:13px}
+    </p>
+
+    <p>
+        h1,h2,h3,p{text-align:center;color:red;}
+    </p>
+
+    <h2>CSS Nasıl Eklenir.</h2>
+    <p>Harici CSS,Dahili CSS, Sıralı(inline) CSS</p>
+
+    <h1 style="color:blue"> İnline css yazarak stil uygulama </h1>
+
+
+    <h3>HTML öğesi için birden fazla stil belirtildiğnde hangi stil kullanılır?</h3>
+
+
+    <p>
+        1-Sattır içi stil (html öğesi içinde h3) style ="color:blue;"şeklkinde yazarsak
+    2-Dış ve iç stil sayfaları (baş bölümünde belirtiği gibi css lerin sırasına göre)
+        3-Tarayıcı varsayılan (her tarayıcının html elemanlarına uyguladığı varsayılan Css özelikleri vardır)
+    
+    </p>
+
+    <h2 style="background-color:blueviolet;color:white;"> Css arkaplan rengi </h2>
+
+    <h2>CSS Kenarlık Rengi (Border)</h2>
+
+    <h1 style="border:2px solid Tomato;" >solid-düz çizgi</h1>
+
+    
+
+
+
+
+
+</body>
+</html>

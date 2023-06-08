@@ -1,0 +1,8 @@
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\DelegelerUygulamaAlani20\bin\Debug\DelegelerUygulamaAlani20.exe.config
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\DelegelerUygulamaAlani20\bin\Debug\DelegelerUygulamaAlani20.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\DelegelerUygulamaAlani20\bin\Debug\DelegelerUygulamaAlani20.pdb
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\DelegelerUygulamaAlani20\obj\Debug\DelegelerUygulamaAlani20.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\DelegelerUygulamaAlani20\obj\Debug\DelegelerUygulamaAlani20.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\DelegelerUygulamaAlani20\obj\Debug\DelegelerUygulamaAlani20.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\DelegelerUygulamaAlani20\obj\Debug\DelegelerUygulamaAlani20.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\DelegelerUygulamaAlani20\obj\Debug\DelegelerUygulamaAlani20.pdb

@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Nesnesler(Object) ve özelikleri(Properties)</title>
+    <script>// sript tag larini head in içinede body içinede tanımlayabilirsin 
+
+
+        function pers(ad, saatucret) {//pers adında fonsiyon oluşturduk iki paremtre alıyor
+            this.ad = ad;
+            this.saatucret = saatucret;
+            this.odaucret = odaucret;
+        }
+
+        function odaucret(saat) {
+            return this.saatucret * saat;
+        }
+
+        pers1 = new pers("Mehmet", 50); //pers1 fonksiyonundan yeni nesne tanımladıkpers1 adında  
+        pers2 = new pers("Ayşe", 40);
+        s1 = parseInt(window.prompt("1.personelin çalıştığı saat miktarı", "0"));
+        p1 = pers1.odaucret(s1);
+        s2 = parseInt(window.prompt("2.personelin çalıştığı saat miktarı", "0"));
+        p2 = pers1.odaucret(s2);
+
+        document.writeln("<h3>Personelin Adı : " + pers1.ad + "</h3>")
+        document.writeln("<h3>Çalıştığı saat : " + s1 + "</h3>")
+        document.writeln("<h3>Personelin Saat Ücreti: " + pers1.saatucret + "</h3>")
+        document.writeln("<h3>Çalıştığı Alacağı Maaş: " + p1 + "</h3>")
+
+        document.writeln("<h3>Personelin Adı : " + pers2.ad + "</h3>")
+        document.writeln("<h3>Çalıştığı saat : " + s2 + "</h3>")
+        document.writeln("<h3>Personelin Saat Ücreti: " + pers2.saatucret + "</h3>")
+        document.writeln("<h3>Çalıştığı Alacağı Maaş: " + p2 + "</h3>")
+
+        console.log("şehmus çakar");
+    </script>
+</head>
+<body>
+    <h1>Neesneler (object) ve özelikleri (properties)</h1>
+    <p>Kullanımı:nesneadı.özelikadı</p>
+</body>
+</html>

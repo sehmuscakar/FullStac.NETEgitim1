@@ -1,0 +1,8 @@
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\CollectionKolaksiyonlarUygulamaAlani19\bin\Debug\CollectionKolaksiyonlarUygulamaAlani19.exe.config
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\CollectionKolaksiyonlarUygulamaAlani19\bin\Debug\CollectionKolaksiyonlarUygulamaAlani19.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\CollectionKolaksiyonlarUygulamaAlani19\bin\Debug\CollectionKolaksiyonlarUygulamaAlani19.pdb
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\CollectionKolaksiyonlarUygulamaAlani19\obj\Debug\CollectionKolaksiyonlarUygulamaAlani19.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\CollectionKolaksiyonlarUygulamaAlani19\obj\Debug\CollectionKolaksiyonlarUygulamaAlani19.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\CollectionKolaksiyonlarUygulamaAlani19\obj\Debug\CollectionKolaksiyonlarUygulamaAlani19.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\CollectionKolaksiyonlarUygulamaAlani19\obj\Debug\CollectionKolaksiyonlarUygulamaAlani19.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\CollectionKolaksiyonlarUygulamaAlani19\obj\Debug\CollectionKolaksiyonlarUygulamaAlani19.pdb

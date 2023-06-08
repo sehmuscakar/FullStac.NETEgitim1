@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8536oYyxDmPiNjl40neE2DjfOLHOU/YP/2zZJ/6wLjjNa7qlathy6gSfHVGzw1Nt7f+CUumkRwn7V3VzGHHpJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Şehmus\\Desktop\\Sıfırdan Full stack .Net developer\\FrontedDersleri\\jQueryDersleri\\jQueryDersleri.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Şehmus\\.nuget\\packages\\jquery\\3.7.0\\jquery.3.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

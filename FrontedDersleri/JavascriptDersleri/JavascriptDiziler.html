@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Js Diziler</title>
+    <script>
+        //Dizi Kullanmadan
+
+        //var x=new Array(6);
+        //---
+        //var sayi, t, i;
+        //t = 0;
+
+        //for (var i = 1; i <= 5; i++) {
+        //    sayi = parseInt(window.prompt("Bir sayı giriniz", "0"));
+        //    t = t + sayi;
+        //}
+
+        //document.write("<h3>Toplam=" + t + "</h3>");
+        //document.write("<h3>Sayı=" + sayi + "</h3>");
+        //--
+
+        //dizi kullanarak
+
+        //var sayi, t;
+        //t = 0;
+        //sayi = new Array(6);
+
+        //for (var i = 1; i <= 5; i++) {
+        //    sayi[i] = parseInt(window.prompt("Bir sayi girniz", "0"));
+        //    t = t + sayi[i];
+        //}
+
+
+        //document.write("<h3>Toplam=" + t + "</h3>");
+        //document.write("<h3>Sayı[3]=" + sayi[3] + "</h3>");
+
+        ////dizi uzunluğu bulma
+        //document.write("<h3>sayı dizisinin eleman sayısı=" + sayi.length + "</h3>");
+
+        //---
+
+        //Dizi tanımlarken değer ataması yapma yöntemleri
+
+        //var x=[5,10,15,20,25];
+        //var = new Array(5,10,15,25);
+        //var x=[5,10,15,25];
+
+        var x = [3, 6, 9, 12, 15];
+        var t = 0;
+        for (var diziElemani in x) {
+            t += x[diziElemani];
+        }
+        document.write("<h3> Dizi elemanları toplamı = " + t + "</h3>");
+    </script>
+
+</head>
+<body>
+    <h1>Js Diziler</h1>
+</body>
+</html>

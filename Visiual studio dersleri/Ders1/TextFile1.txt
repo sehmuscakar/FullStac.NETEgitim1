@@ -1,0 +1,7 @@
+// blank solution projeler oluþturmamýz için imkan saðladýðý çerçeve ,baþka yerden de açabilirsin direk istediðin proje çerçevesini 
+//solution explorer ana klasör gibi düþün saða sola aþaðý yukarý gütürebilirsin istediðin yere 
+//üsteki menü yü tanýt üzerlerine gelerek aklýna gelenleri söyle 
+// tools taki yer önemli environment te kýsmýnda  studio rengini international da yapabilirsin 
+//Extensions ta manage extensionsta visiual studio için eklentiler ekleyebilirsin 
+//visual studio yuklerken web geliþtirme ,masaüstü geliþtirme ve veri depolama ve iþleme paketlerini yuklesen iyi olur
+// dil paketlerinde ingilice ve türkçeyi yukle önemli

@@ -1,0 +1,11 @@
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\TreeView ve MenuStrip Kontrolleri ile Menü Yapımı\bin\Debug\TreeView ve MenuStrip Kontrolleri ile Menü Yapımı.exe.config
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\TreeView ve MenuStrip Kontrolleri ile Menü Yapımı\bin\Debug\TreeView ve MenuStrip Kontrolleri ile Menü Yapımı.exe
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\TreeView ve MenuStrip Kontrolleri ile Menü Yapımı\bin\Debug\TreeView ve MenuStrip Kontrolleri ile Menü Yapımı.pdb
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\TreeView ve MenuStrip Kontrolleri ile Menü Yapımı\obj\Debug\TreeView ve MenuStrip Kontrolleri ile Menü Yapımı.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\TreeView ve MenuStrip Kontrolleri ile Menü Yapımı\obj\Debug\TreeView ve MenuStrip Kontrolleri ile Menü Yapımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\TreeView ve MenuStrip Kontrolleri ile Menü Yapımı\obj\Debug\TreeView_ve_MenuStrip_Kontrolleri_ile_Menü_Yapımı.Form1.resources
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\TreeView ve MenuStrip Kontrolleri ile Menü Yapımı\obj\Debug\TreeView_ve_MenuStrip_Kontrolleri_ile_Menü_Yapımı.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\TreeView ve MenuStrip Kontrolleri ile Menü Yapımı\obj\Debug\TreeView ve MenuStrip Kontrolleri ile Menü Yapımı.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\TreeView ve MenuStrip Kontrolleri ile Menü Yapımı\obj\Debug\TreeView ve MenuStrip Kontrolleri ile Menü Yapımı.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\TreeView ve MenuStrip Kontrolleri ile Menü Yapımı\obj\Debug\TreeView ve MenuStrip Kontrolleri ile Menü Yapımı.exe
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\TreeView ve MenuStrip Kontrolleri ile Menü Yapımı\obj\Debug\TreeView ve MenuStrip Kontrolleri ile Menü Yapımı.pdb

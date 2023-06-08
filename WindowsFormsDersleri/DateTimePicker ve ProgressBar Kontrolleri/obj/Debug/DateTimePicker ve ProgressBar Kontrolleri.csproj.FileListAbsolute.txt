@@ -1,0 +1,11 @@
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\DateTimePicker ve ProgressBar Kontrolleri\bin\Debug\DateTimePicker ve ProgressBar Kontrolleri.exe.config
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\DateTimePicker ve ProgressBar Kontrolleri\bin\Debug\DateTimePicker ve ProgressBar Kontrolleri.exe
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\DateTimePicker ve ProgressBar Kontrolleri\bin\Debug\DateTimePicker ve ProgressBar Kontrolleri.pdb
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\DateTimePicker ve ProgressBar Kontrolleri\obj\Debug\DateTimePicker ve ProgressBar Kontrolleri.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\DateTimePicker ve ProgressBar Kontrolleri\obj\Debug\DateTimePicker ve ProgressBar Kontrolleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\DateTimePicker ve ProgressBar Kontrolleri\obj\Debug\DateTimePicker_ve_ProgressBar_Kontrolleri.Form1.resources
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\DateTimePicker ve ProgressBar Kontrolleri\obj\Debug\DateTimePicker_ve_ProgressBar_Kontrolleri.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\DateTimePicker ve ProgressBar Kontrolleri\obj\Debug\DateTimePicker ve ProgressBar Kontrolleri.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\DateTimePicker ve ProgressBar Kontrolleri\obj\Debug\DateTimePicker ve ProgressBar Kontrolleri.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\DateTimePicker ve ProgressBar Kontrolleri\obj\Debug\DateTimePicker ve ProgressBar Kontrolleri.exe
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\DateTimePicker ve ProgressBar Kontrolleri\obj\Debug\DateTimePicker ve ProgressBar Kontrolleri.pdb

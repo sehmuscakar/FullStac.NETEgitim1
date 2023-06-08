@@ -1,0 +1,11 @@
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\NumericUpDownVEDomainuPDown\bin\Debug\NumericUpDownVEDomainuPDown.exe.config
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\NumericUpDownVEDomainuPDown\bin\Debug\NumericUpDownVEDomainuPDown.exe
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\NumericUpDownVEDomainuPDown\bin\Debug\NumericUpDownVEDomainuPDown.pdb
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\NumericUpDownVEDomainuPDown\obj\Debug\NumericUpDownVEDomainuPDown.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\NumericUpDownVEDomainuPDown\obj\Debug\NumericUpDownVEDomainuPDown.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\NumericUpDownVEDomainuPDown\obj\Debug\NumericUpDownVEDomainuPDown.Form1.resources
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\NumericUpDownVEDomainuPDown\obj\Debug\NumericUpDownVEDomainuPDown.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\NumericUpDownVEDomainuPDown\obj\Debug\NumericUpDownVEDomainuPDown.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\NumericUpDownVEDomainuPDown\obj\Debug\NumericUpDownVEDomainuPDown.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\NumericUpDownVEDomainuPDown\obj\Debug\NumericUpDownVEDomainuPDown.exe
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\NumericUpDownVEDomainuPDown\obj\Debug\NumericUpDownVEDomainuPDown.pdb

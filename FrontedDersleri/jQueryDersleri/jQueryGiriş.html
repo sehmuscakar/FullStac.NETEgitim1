@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>JQuery Giriş</title>
+
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/jquery/dist/jquery.js"></script>
+    <style>
+        #baslİk {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+
+    <h1 id="mesaj"></h1>
+
+    <h2 id="baslik"> HTML öğelerini Id ye göre bulma </h2>
+    <p id="mesaj"></p>
+
+    <script>
+        $(document).ready(function () {
+            var secilecekElement = $("#baslİk");
+            $("#mesaj").text("başlıktan gelen içerik : " + secilecekElement[0].innerHTML);
+
+        });
+    </script>
+
+    <h2> HTML öğelerini Etiket adına göre bulma </h2>
+    <p id="etiket"></p>
+
+    <script>
+        $(document).ready(function () {
+            var secilecekElement = $("h2");
+            $("#etiket").text("başlıktan gelen içerik : " + secilecekElement[0].innerHTML);
+
+        });
+    </script>
+
+    <h2 class="SinifSecici"> HTML öğelerini sınıf adına göre bulma </h2>
+
+    <p id="sinif"></p>
+
+    <script>
+        $(document).ready(function () {
+            var secilecekElement = $(".sinifSecici");
+            $("#sinif").text("başlıktan gelen içerik : " + secilecekElement[0].innerHTML);
+
+        });
+    </script>
+
+    <h2 class="sorguSecici"> Css seçiciye göre HTML öğelerini bulma </h2>
+
+    <p id="cssSecici"></p>
+
+    <script>
+        $(document).ready(function () {
+            var secilecekElement = $("h2.sinifSecici");
+            $("#cssSecici").text("başlıktan gelen içerik : " + secilecekElement[0].innerHTML);
+        });
+    </script>
+
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\TabControl Komponenti ile Tab Menü Yapımı\bin\Debug\TabControl Komponenti ile Tab Menü Yapımı.exe.config
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\TabControl Komponenti ile Tab Menü Yapımı\bin\Debug\TabControl Komponenti ile Tab Menü Yapımı.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\TabControl Komponenti ile Tab Menü Yapımı\bin\Debug\TabControl Komponenti ile Tab Menü Yapımı.pdb
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\TabControl Komponenti ile Tab Menü Yapımı\obj\Debug\TabControl Komponenti ile Tab Menü Yapımı.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\TabControl Komponenti ile Tab Menü Yapımı\obj\Debug\TabControl Komponenti ile Tab Menü Yapımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\TabControl Komponenti ile Tab Menü Yapımı\obj\Debug\TabControl_Komponenti_ile_Tab_Menü_Yapımı.Form1.resources
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\TabControl Komponenti ile Tab Menü Yapımı\obj\Debug\TabControl_Komponenti_ile_Tab_Menü_Yapımı.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\TabControl Komponenti ile Tab Menü Yapımı\obj\Debug\TabControl Komponenti ile Tab Menü Yapımı.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\TabControl Komponenti ile Tab Menü Yapımı\obj\Debug\TabControl Komponenti ile Tab Menü Yapımı.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\TabControl Komponenti ile Tab Menü Yapımı\obj\Debug\TabControl Komponenti ile Tab Menü Yapımı.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\WindowsFormsDersleri\TabControl Komponenti ile Tab Menü Yapımı\obj\Debug\TabControl Komponenti ile Tab Menü Yapımı.pdb

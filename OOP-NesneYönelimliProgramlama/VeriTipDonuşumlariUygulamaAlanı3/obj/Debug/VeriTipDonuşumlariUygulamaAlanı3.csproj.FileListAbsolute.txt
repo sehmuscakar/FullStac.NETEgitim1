@@ -1,0 +1,8 @@
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\VeriTipDonuşumlariUygulamaAlanı3\bin\Debug\VeriTipDonuşumlariUygulamaAlanı3.exe.config
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\VeriTipDonuşumlariUygulamaAlanı3\bin\Debug\VeriTipDonuşumlariUygulamaAlanı3.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\VeriTipDonuşumlariUygulamaAlanı3\bin\Debug\VeriTipDonuşumlariUygulamaAlanı3.pdb
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\VeriTipDonuşumlariUygulamaAlanı3\obj\Debug\VeriTipDonuşumlariUygulamaAlanı3.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\VeriTipDonuşumlariUygulamaAlanı3\obj\Debug\VeriTipDonuşumlariUygulamaAlanı3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\VeriTipDonuşumlariUygulamaAlanı3\obj\Debug\VeriTipDonuşumlariUygulamaAlanı3.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\VeriTipDonuşumlariUygulamaAlanı3\obj\Debug\VeriTipDonuşumlariUygulamaAlanı3.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\VeriTipDonuşumlariUygulamaAlanı3\obj\Debug\VeriTipDonuşumlariUygulamaAlanı3.pdb

@@ -1,0 +1,8 @@
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\ErisimBelitecleriUygulamaAlanı10\bin\Debug\ErisimBelitecleriUygulamaAlanı10.exe.config
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\ErisimBelitecleriUygulamaAlanı10\bin\Debug\ErisimBelitecleriUygulamaAlanı10.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\ErisimBelitecleriUygulamaAlanı10\bin\Debug\ErisimBelitecleriUygulamaAlanı10.pdb
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\ErisimBelitecleriUygulamaAlanı10\obj\Debug\ErisimBelitecleriUygulamaAlanı10.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\ErisimBelitecleriUygulamaAlanı10\obj\Debug\ErisimBelitecleriUygulamaAlanı10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\ErisimBelitecleriUygulamaAlanı10\obj\Debug\ErisimBelitecleriUygulamaAlanı10.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\ErisimBelitecleriUygulamaAlanı10\obj\Debug\ErisimBelitecleriUygulamaAlanı10.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\ErisimBelitecleriUygulamaAlanı10\obj\Debug\ErisimBelitecleriUygulamaAlanı10.pdb

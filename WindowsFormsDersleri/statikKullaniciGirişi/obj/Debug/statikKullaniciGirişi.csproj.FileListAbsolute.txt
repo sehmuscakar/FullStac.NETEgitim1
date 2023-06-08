@@ -1,0 +1,11 @@
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\statikKullaniciGirişi\bin\Debug\statikKullaniciGirişi.exe.config
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\statikKullaniciGirişi\bin\Debug\statikKullaniciGirişi.exe
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\statikKullaniciGirişi\bin\Debug\statikKullaniciGirişi.pdb
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\statikKullaniciGirişi\obj\Debug\statikKullaniciGirişi.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\statikKullaniciGirişi\obj\Debug\statikKullaniciGirişi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\statikKullaniciGirişi\obj\Debug\statikKullaniciGirişi.Form1.resources
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\statikKullaniciGirişi\obj\Debug\statikKullaniciGirişi.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\statikKullaniciGirişi\obj\Debug\statikKullaniciGirişi.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\statikKullaniciGirişi\obj\Debug\statikKullaniciGirişi.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\statikKullaniciGirişi\obj\Debug\statikKullaniciGirişi.exe
+C:\Users\Şehmus\Desktop\MyTigrisTech\WindowsFormsDersleri\statikKullaniciGirişi\obj\Debug\statikKullaniciGirişi.pdb

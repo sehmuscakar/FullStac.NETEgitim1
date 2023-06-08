@@ -1,0 +1,8 @@
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\OzgenlerPropertiesUygulamaAlanı11\bin\Debug\OzgenlerPropertiesUygulamaAlanı11.exe.config
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\OzgenlerPropertiesUygulamaAlanı11\bin\Debug\OzgenlerPropertiesUygulamaAlanı11.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\OzgenlerPropertiesUygulamaAlanı11\bin\Debug\OzgenlerPropertiesUygulamaAlanı11.pdb
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\OzgenlerPropertiesUygulamaAlanı11\obj\Debug\OzgenlerPropertiesUygulamaAlanı11.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\OzgenlerPropertiesUygulamaAlanı11\obj\Debug\OzgenlerPropertiesUygulamaAlanı11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\OzgenlerPropertiesUygulamaAlanı11\obj\Debug\OzgenlerPropertiesUygulamaAlanı11.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\OzgenlerPropertiesUygulamaAlanı11\obj\Debug\OzgenlerPropertiesUygulamaAlanı11.exe
+C:\Users\Şehmus\Desktop\Sıfırdan Full stack .Net developer\OOP-NesneYönelimliProgramlama\OzgenlerPropertiesUygulamaAlanı11\obj\Debug\OzgenlerPropertiesUygulamaAlanı11.pdb
